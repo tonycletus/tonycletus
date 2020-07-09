@@ -5,7 +5,7 @@
 Short note about me:
 
 - 🔥 Marketing Manager at https://happierco.com
-- 🔭 I’m currently building on https://oculate.co
+- 🔭 I’m currently building https://oculate.co 
 - 🌱 I’m currently learning React/Gatsby/GraphQL
 - 👯 I’m looking to collaborate on OSS that provides social values/good
 - 💬 Ask me about coding and marketing
