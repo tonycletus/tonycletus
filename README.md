@@ -11,4 +11,4 @@ Short note about me:
 - 💬 Ask me about coding and marketing
 - 📫 How to reach me: [Twitter](https://twitter.com/iamtonycletus "iamtonycletus") | [LinkedIn](https://www.linkedin.com/in/tonycletus "Tony Cletus")
 - ⚡ Fun fact: The usual programmers drink coffee while coding but I drink Garri + condiment!
-- 💎 What else? My vibes => coding, marketing, content, product, design (curious learner & teacher)
+- 💎 What else? My vibes => coding, marketing, content, product and design
