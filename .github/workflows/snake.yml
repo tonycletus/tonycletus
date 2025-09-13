@@ -3,27 +3,36 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */12 * * *"  # Runs every 12 hours
-  workflow_dispatch:       # Allow manual runs
+  workflow_dispatch:       # Allows manual runs
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      # 1. Checkout the repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
+      # 2. Ensure the dist folder exists
+      - name: Create dist folder
+        run: mkdir -p dist
+
+      # 3. Generate the contribution snake
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: tonycletus
           outputs: dist/snake.svg
 
-      - name: Upload Snake
+      # 4. Upload as artifact (optional, for debugging or backup)
+      - name: Upload Snake artifact
         uses: actions/upload-artifact@v3
         with:
           name: snake
           path: dist/snake.svg
 
+      # 5. Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
