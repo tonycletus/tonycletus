@@ -29,19 +29,7 @@ I'm **Tony Cletus**, and this profile is a glimpse into my journey as a develope
 
 ---
 
-### 🌍 Recent Activity
-<!--START_SECTION:activity-->
-<!-- This section auto-updates with your latest GitHub activity using a GitHub Action -->
-<!--END_SECTION:activity-->
-
----
-
 ### 🖼 Contribution Graph
-
-<!-- Snake animation (will work once GitHub Pages is set up) -->
-[![GitHub Snake](https://tonycletus.github.io/tonycletus/github-contribution-grid-snake.svg)](https://tonycletus.github.io/tonycletus/github-contribution-grid-snake.svg)
-
-<!-- Alternative contribution graph (works immediately) -->
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tonycletus&theme=tokyonight&hide_border=false)
 
 ---
