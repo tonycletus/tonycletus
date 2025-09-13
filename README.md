@@ -21,11 +21,11 @@ I'm **Tony Cletus**, and this profile is a glimpse into my journey as a develope
 ---
 
 ### 📊 GitHub Stats (auto-updating)
-![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonycletus&show_icons=true&theme=radical)  
+![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonycletus&show_icons=true&count_private=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonycletus&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonycletus&layout=compact&count_private=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tonycletus&theme=radical&date_format=j%20M%5B%20Y%5D)  
+![GitHub Streak](https://streak-stats.demolab.com?user=tonycletus&theme=tokyonight&hide_border=false)
 
 ---
 
