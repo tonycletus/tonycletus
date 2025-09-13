@@ -39,6 +39,9 @@ I'm **Tony Cletus**, and this profile is a glimpse into my journey as a develope
 ### 🖼 Contribution Graph
 ![GitHub Snake](https://github.com/tonycletus/tonycletus/blob/output/github-contribution-grid-snake.svg)
 
+![GitHub Contributions](https://tonycletus.github.io/tonycletus/github-contribution-grid-snake.svg)
+
+
 ---
 
 ✨ *“Let’s change the world one code at a time.”*

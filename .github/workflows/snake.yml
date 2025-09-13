@@ -14,27 +14,27 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2. Ensure the dist folder exists
-      - name: Create dist folder
-        run: mkdir -p dist
+      # 2. Ensure the output folder exists
+      - name: Create output folder
+        run: mkdir -p output
 
-      # 3. Generate the contribution snake
+      # 3. Generate the contribution snake into output/
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: tonycletus
-          outputs: dist/snake.svg
+          outputs: output/github-contribution-grid-snake.svg
 
-      # 4. Upload as artifact (optional, for debugging or backup)
+      # 4. Upload as artifact (optional)
       - name: Upload Snake artifact
         uses: actions/upload-artifact@v3
         with:
           name: snake
-          path: dist/snake.svg
+          path: output/github-contribution-grid-snake.svg
 
       # 5. Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: ./output
