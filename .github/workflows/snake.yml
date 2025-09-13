@@ -18,14 +18,14 @@ jobs:
       - name: Create output folder
         run: mkdir -p output
 
-      # 3. Generate the contribution snake into output/
+      # 3. Generate the contribution Snake into output/
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: tonycletus
           outputs: output/github-contribution-grid-snake.svg
 
-      # 4. Upload as artifact (optional)
+      # 4. Upload as artifact (optional, for debugging)
       - name: Upload Snake artifact
         uses: actions/upload-artifact@v3
         with:
