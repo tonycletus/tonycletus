@@ -33,3 +33,7 @@ I'm **Tony Cletus**, and this profile is a glimpse into my journey as a develope
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tonycletus&theme=tokyonight&hide_border=false)
 
 ---
+
+✨ *“My work is a reflection of curiosity and responsibility.”*
+
+---
