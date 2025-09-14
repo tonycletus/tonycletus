@@ -14,9 +14,12 @@ I'm **Tony Cletus**, and this profile is a glimpse into my journey as a develope
 - 💎 **Beyond Code**: Traveler, family-oriented, and driven by curiosity  
 - 💡 **Fun fact**: I drink Garri, not Coffee 😅  
 
-Connect with me:  
-[![Twitter Badge](https://img.shields.io/badge/-@iamtonycletus-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/iamtonycletus)  
-[![LinkedIn Badge](https://img.shields.io/badge/-Tony%20Cletus-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonycletus)  
+### Connect with me  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamtonycletus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonycletus)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/tonycletus)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tonycletus.com)
+
 
 ---
 
