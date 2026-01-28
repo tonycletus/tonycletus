@@ -6,7 +6,7 @@
 
 ### About Me
 
-I'm a builder at heart, crafting products that make a real difference in people's lives. My days are fueled by curiosity (and Garri, not coffee 😅) as I explore the intersection of tech, AI, and privacy-aware systems. When I'm not coding or collaborating on open-source projects, you'll find me traveling, spending time with family, or diving deep into whatever sparks my interest next. I believe the best products come from continuous learning and a genuine desire to solve meaningful problems.  
+I'm a builder at heart, crafting products that make a real difference in people's lives. My days are fueled by curiosity (and Garri, not coffee 😅) as I explore the intersection of tech, AI, education, privacy-aware systems. When I'm not coding or collaborating on open-source projects, you'll find me traveling, spending time with family, or diving deep into whatever sparks my interest next. I believe the best products come from continuous learning and a genuine desire to solve meaningful problems.  
 
 ### Connect with me  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamtonycletus)
