@@ -17,17 +17,19 @@ I'm a builder at heart, crafting products that make a real difference in people'
 ---
 
 ### Current Projects
-
-- 🏗️ [**Builderlab**](https://github.com/programmify/builder-lab) - Discover, learn, and use the best AI, open-source, and free tools to build and launch projects fast
-- ⚒️ [**Forge**](https://github.com/programmify/forge) - Turn ideas into perfect prompts that deliver working MVPs on the first try
-- 🌐 [**Asealo**](https://asealo.tonycletus.com) - AI-powered professional client budget generator that converts
-- 🚀 [**Space AI Sim**](https://github.com/tonycletus/space-ai-sim) - Orbital mechanics & power systems simulator
+- 🎮 [**Phalkn**](https://phalkn.com) - A platform for highly interactive web-based games like Frame Hunter and FlickGuess
+- 🤖 [**AANI**](https://aani.qzz.io) - AI Assistant for Non-internet Infrastructure (In progress)
+- 🌐 [**Asealo**](https://asealo.tonycletus.com) - AI-powered professional client budget generator that converts (In progress) 
 - 🎵 [**Igala Echoes**](https://github.com/tonycletus/igala-echoes) - Search through a collection of sacred Igala names. Each name holds a universe of meaning
-- 🤖 [**AANI**](https://github.com/tonycletus/aani) - AI Assistant for Non-internet Infrastructure
 - 📖 [**ghread**](https://github.com/tonycletus/ghread) - Generate beautiful GitHub README profiles instantly with a simple command
+- ⚒️ [**Forge**](https://github.com/programmify/forge) - Turn ideas into perfect prompts that deliver working MVPs on the first try
+- 🏗️ [**Builderlab**](https://github.com/programmify/builder-lab) - Discover, learn, and use the best AI, open-source, and free tools to build and launch projects fast
+- 🚀 [**Space AI Sim**](https://github.com/tonycletus/space-ai-sim) - Orbital mechanics & power systems simulator
 - 💝 [**Tendly**](https://github.com/tonycletus/tendly) - Privacy-first file sharing platform for easy, secure, and temporary file transfers
 - 💇 [**Hairmama**](https://github.com/tonycletus/hairmama) - AI-Powered Hair Analysis Platform
-- 🚀 [**Programmify**](https://github.com/programmify) - Empowering the next generation of African builders through open-source, AI, and real-world learning
+- 🎓 [**PIP (Programmify Internship)**](https://academy.programmify.org/Internship) - The first AI builder lab in Africa, growing from 10 to 100+ builders
+- 🚀 [**Programmify**](https://github.com/programmify) - Empowering the next generation of African builders through open-source, AI, and real-world learning (In progress)
+- 🌾 [**DaveKings Nigeria**](https://davekings.com) - Agribusiness e‑commerce and investment platform
 
 ---
 
@@ -47,20 +49,24 @@ I'm a builder at heart, crafting products that make a real difference in people'
 
 ### Tech & Tools
 
-| Core Stack | Databases | Deployment | Testing | AI Development |
+| Core Stack | Databases | Deployment | Testing & DevOps | AI Development |
 |------------|-----------|------------|---------|----------------|
 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) | Claude Code |
 | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) | OpenCode |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![VPS](https://img.shields.io/badge/VPS-009639?style=for-the-badge&logo=linux&logoColor=white) | | Goose |
-| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | | Clawdbot |
-| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Neon](https://img.shields.io/badge/Neon-1B1F23?style=for-the-badge&logo=postgresql&logoColor=white) | | | Antigravity |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![VPS](https://img.shields.io/badge/VPS-009639?style=for-the-badge&logo=linux&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | Goose |
+| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | CI/CD Pipelines | Clawdbot |
+| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Neon](https://img.shields.io/badge/Neon-1B1F23?style=for-the-badge&logo=postgresql&logoColor=white) | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) | | Antigravity |
 | ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=storybook&logoColor=white) | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) | | | Dyad |
 | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Sequelize](https://img.shields.io/badge/Sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue) | | | Cursor |
-| ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | | | | Lovable |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | | | | Builder.io |
+| ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | | | Lovable |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Convex | | | Builder.io |
+| ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) | | | | Qwen |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | | | | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | | | | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | | | | QLoRA |
+| ![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white) | | | | |
 
 ---
 
 *"My work is a reflection of curiosity and responsibility."*
 
----
