@@ -17,19 +17,24 @@ I'm a builder at heart, crafting products that make a real difference in people'
 ---
 
 ### Current Projects
-- 🎮 [**Phalkn**](https://phalkn.com) - A platform for highly interactive web-based games like Frame Hunter and FlickGuess
-- 🤖 [**AANI**](https://aani.qzz.io) - AI Assistant for Non-internet Infrastructure (In progress)
-- 🌐 [**Asealo**](https://asealo.tonycletus.com) - AI-powered professional client budget generator that converts (In progress) 
-- 🎵 [**Igala Echoes**](https://github.com/tonycletus/igala-echoes) - Search through a collection of sacred Igala names. Each name holds a universe of meaning
-- 📖 [**ghread**](https://github.com/tonycletus/ghread) - Generate beautiful GitHub README profiles instantly with a simple command
-- ⚒️ [**Forge**](https://github.com/programmify/forge) - Turn ideas into perfect prompts that deliver working MVPs on the first try
-- 🏗️ [**Builderlab**](https://github.com/programmify/builder-lab) - Discover, learn, and use the best AI, open-source, and free tools to build and launch projects fast
-- 🚀 [**Space AI Sim**](https://github.com/tonycletus/space-ai-sim) - Orbital mechanics & power systems simulator
-- 💝 [**Tendly**](https://github.com/tonycletus/tendly) - Privacy-first file sharing platform for easy, secure, and temporary file transfers
-- 💇 [**Hairmama**](https://github.com/tonycletus/hairmama) - AI-Powered Hair Analysis Platform
-- 🎓 [**PIP (Programmify Internship)**](https://academy.programmify.org/Internship) - The first AI builder lab in Africa, growing from 10 to 100+ builders
-- 🚀 [**Programmify**](https://github.com/programmify) - Empowering the next generation of African builders through open-source, AI, and real-world learning (In progress)
-- 🌾 [**DaveKings Nigeria**](https://davekings.com) - Agribusiness e‑commerce and investment platform
+
+* 💬 [**FastCV Chat**](https://fastcv.vercel.app) - Chat with FastCV through Telegram, WhatsApp, and other messaging platforms
+* ⚡ [**FastCV**](https://fastcv.vercel.app) - AI-powered resume and cover letter builder designed for modern hiring workflows
+* 🌐 [**PeerDrift**](https://peerdrift.org) - Instant peer-to-peer file sharing across nearby devices with no account required
+* 💳 [**Konta**](https://konta.qzz.io) - Cleaner business records for purchases, sales, profit tracking, and CFA/NGN conversion
+* 🎮 [**Phalkn**](https://phalkn.com) - A platform for highly interactive web-based games and new experimental builds, including Frame Hunter and FlickGuess
+* 🤖 [**AANI**](https://aani.qzz.io) - AI Assistant for Non-internet Infrastructure
+* 🌐 [**Asealo**](https://asealo.tonycletus.com) - AI-powered professional client budget generator
+* 🎵 [**Igala Echoes**](https://github.com/tonycletus/igala-echoes) - Search through a collection of sacred Igala names and their meanings
+* 📖 [**ghread**](https://github.com/tonycletus/ghread) - Generate beautiful GitHub README profiles instantly from the command line
+* ⚒️ [**Forge**](https://github.com/programmify/forge) - Turn ideas into clear prompts that help generate working MVPs faster
+* 🏗️ [**Builderlab**](https://github.com/programmify/builder-lab) - Discover, learn, and use the best AI, open-source, and free tools to build and launch projects
+* 🚀 [**Space AI Sim**](https://github.com/tonycletus/space-ai-sim) - Orbital mechanics and power systems simulator
+* 💝 [**Tendly**](https://github.com/tonycletus/tendly) - Privacy-first platform for secure, temporary file sharing
+* 💇 [**Hairmama**](https://github.com/tonycletus/hairmama) - AI-powered hair analysis platform
+* 🎓 [**PIP**](https://academy.programmify.org/Internship) - Programmify Internship Program, Africa’s first AI Builder Lab
+* 🚀 [**Programmify**](https://github.com/programmify) - Open-source, AI-native ecosystem for training African builders
+* 🌾 [**DaveKings Nigeria**](https://davekings.com) - Agribusiness e-commerce and investment platform
 
 ---
 
