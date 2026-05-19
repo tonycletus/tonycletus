@@ -18,10 +18,10 @@ I'm a builder at heart, crafting products that make a real difference in people'
 
 ### Current Projects
 
-* 💬 [**FastCV Chat**](https://fastcv.vercel.app) - Chat with FastCV through Telegram, WhatsApp, and other messaging platforms
-* ⚡ [**FastCV**](https://fastcv.vercel.app) - AI-powered resume and cover letter builder designed for modern hiring workflows
-* 🌐 [**PeerDrift**](https://peerdrift.org) - Instant peer-to-peer file sharing across nearby devices with no account required
-* 💳 [**Konta**](https://konta.qzz.io) - Cleaner business records for purchases, sales, profit tracking, and CFA/NGN conversion
+* 💬 [**FastCV Chat**](https://fastcv.shop/chat) - Chat with FastCV through Telegram, WhatsApp, and other messaging platforms
+* ⚡ [**FastCV**](https://fastcv.shop) - AI-powered resume and cover letter builder designed for modern hiring workflows
+* 🌐 [**PeerDrift**](https://peerdrift.lovable.app) - Instant peer-to-peer file sharing across nearby devices with no account required
+* 💳 [**Konta**](https://konta.tonycletus.com) - Cleaner business records for purchases, sales, profit tracking, and CFA/NGN conversion
 * 🎮 [**Phalkn**](https://phalkn.com) - A platform for highly interactive web-based games and new experimental builds, including Frame Hunter and FlickGuess
 * 🤖 [**AANI**](https://aani.qzz.io) - AI Assistant for Non-internet Infrastructure
 * 🌐 [**Asealo**](https://asealo.tonycletus.com) - AI-powered professional client budget generator
